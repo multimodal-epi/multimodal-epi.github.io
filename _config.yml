@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Jason R. Singson
+description: Epidemiologist, Researcher, Community Organizer
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: jrcsingson at gmail dot com
 
 # Pagination
 paginate: 4
@@ -13,10 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
+twitter: "@multimodal_epi"
+linkedin: "jrcsingson"
 stackoverflow: "#"
-github: "#"
+github: "multimodal-epi"
 researchgate: "#"
 orcid: "#"
 quora: "#"
