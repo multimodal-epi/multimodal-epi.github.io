@@ -45,4 +45,4 @@ Apprentice Level Starter, Track Official and Field Official
 
 ### Also, check out:
 
-- [Singasongpoetry](singasongpoetry.weebly.com) - Jason's poetry outlet and publishing website
+- [Singasongpoetry](https://singasongpoetry.weebly.com) - Jason's poetry outlet and publishing website
