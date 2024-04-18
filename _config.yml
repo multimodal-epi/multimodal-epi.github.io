@@ -16,13 +16,13 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 twitter: "@multimodal_epi"
 linkedin: "jrcsingson"
-stackoverflow: "#"
+### stackoverflow: "#"
 github: "multimodal-epi"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+researchgate: "Jason-Robert-Singson-2"
+orcid: "0000-0002-9113-1190"
+### quora: "#"
+instagram: "multimodal-epi"
+### facebook: "#"
 
 
 # Markdown
