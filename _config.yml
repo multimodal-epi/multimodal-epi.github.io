@@ -5,7 +5,7 @@ description: Epidemiologist, Researcher, Community Organizer
 
 baseurl: "/" #name of GitHub repository
 url: "https://multimodal.github.io" #custom url to be used instead of GitHub repository
-email: Jason Singson<stub-inrush.0x@icloud.com>?Inquiry from Jason's Github Site
+email: Jason%20Singson<stub-inrush.0x@icloud.com>?subject=Inquiry from Jason's Github Site
 #John Wayne<jw@email.com>?subject
 # Pagination
 paginate: 4
