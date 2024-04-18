@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: Singson_BW_headshot.jpg
+  image: assets/images/Singson_BW_headshot.JPG
 published: true
 ---
 
