@@ -14,6 +14,12 @@ His methods and data are grounded through his Filipino community, Catholic socia
 
 He holds the golden rule of track and field starters in all aspects of life: "No athlete is allowed to gain an unfair advantage, and no athlete should have to suffer an unfair disadvantage."
 
+# Education
+## University of California, Davis
+### PhD in Public Health Sciences (On-Going)
+### MPH, Epidemiology Track
+### Bachelor of Science, Global Disease Biology
+
 # Experience
 ## California Department of Public Health
 ### Research Scientist I
