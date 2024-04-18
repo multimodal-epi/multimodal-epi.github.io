@@ -3,8 +3,8 @@
 title: Jason R. Singson
 description: Epidemiologist, Researcher, Community Organizer
 
-baseurl: /multimodal-epi.github.io #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: "/" #name of GitHub repository
+url: "https://multimodal.github.io" #custom url to be used instead of GitHub repository
 email: jrcsingson at gmail dot com
 
 # Pagination
