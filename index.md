@@ -37,11 +37,12 @@ Central Valley AIDS Eductation and Training Center
 ### Infectious Diseases Clinical Research Intern
 
 ## Affiliations
+### FilipinX-A-O Community Health Association
 ### Kapwa Health Collective
 ### Council of State and Territorial Epidemiologists
 ### California Track Starters Assocation / USATF Certified Official
 Apprentice Level Starter, Track Official and Field Official
+
 ### Also, check out:
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+- [Singasongpoetry](singasongpoetry.weebly.com) - Jason's poetry outlet and publishing website
