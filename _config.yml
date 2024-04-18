@@ -1,8 +1,8 @@
 ### your site title here
 
 title: Jason R. Singson, MPH
+  subtitle: (he/him/his/siya)
 description: Epidemiologist, Researcher, Community Organizer
-subtitle: (he/him/his/siya)
 
 baseurl: "/" #name of GitHub repository
 url: "https://multimodal.github.io" #custom url to be used instead of GitHub repository
