@@ -7,13 +7,10 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+# Bio
+Jason R. Singson is a an applied epidemiologist trained in Emergency Preparedness, Infectious Disease, Health Equity, and Community Research. With over 8 years of experience at local and state health department combined with over 5 years of applied epidmeiology experience, Mr. Singson brings a great deal of expertise into the world of public health, epidemiology, and government. His methods and data are grounded through his Filipino community, Catholic social teaching and liberation theology, allyship and solidarity, and social justice in the hopes of creating a society that serves all. In his free time, you can see him bowling, experimenting with coffee, and starting a track and field race.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
-
-PS: If you liked the theme, do star it on GitHub!
+He holds the golden rule of track and field starters in all aspects of life: "No athlete is allowed to gain an unfair advantage, and no athlete should have to suffer an unfair disadvantage."
 
 ### Also, check out:
 
