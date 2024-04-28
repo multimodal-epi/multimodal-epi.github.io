@@ -17,10 +17,10 @@ He holds the golden rule of track and field starters in all aspects of life: "No
 # Education
 ## University of California, Davis
 ### PhD in Public Health Sciences (On-Going)
-### MPH, Epidemiology Track
+### MPH, Epidemiology Track, 2020
 Thesis: Piloting an Emergency Preparedness Gap Analysis for Long-Term Care Facilities in Yolo County <br>
 Advisor: Jeffrey Hoch, PhD
-### Bachelor of Science, Global Disease Biology
+### Bachelor of Science, Global Disease Biology, 2019
 Graduated with High Honors, Regents Scholar, University Honors Program Scholar, GDB Prize Recipient<br>
 Thesis: An Informed Review of the Public Health Response to a Countywide Norovirus Outbreak in Schools–California, 2017<br>
 Advisor: Karen Shapiro, DVM, MPVM, Site Advisor: Haydee Dabritz, PhD
