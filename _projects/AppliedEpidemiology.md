@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Applied Epidemiology
-description: Workgroups, Committees, Case Definitions
+description: Improving the practice of epidemiology
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
