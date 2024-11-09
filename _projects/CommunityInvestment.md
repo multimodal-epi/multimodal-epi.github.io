@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Investment and Health
-description: another project
+description: Public Health is a Choice
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
