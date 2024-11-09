@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Population Health of Filipino/Filipino Americans
-description: Health of My Kababayan
+title: Health of Filipino/Filipino Americans
+description: Population Health of My Kababayan
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
