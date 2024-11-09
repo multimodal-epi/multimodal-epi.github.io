@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A longer Project Title
-description: short project description
+title: Infectious Diseases
+description: COVID-19, Outbreak Response, Case Definitions etc.
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
