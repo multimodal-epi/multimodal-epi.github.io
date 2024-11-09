@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 5
+title: Community Investment and Health
 description: another project
 ---
 
