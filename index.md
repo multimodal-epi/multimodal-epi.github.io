@@ -16,7 +16,7 @@ He holds the golden rule of track and field starters in all aspects of life: "No
 
 # Education
 ## University of California, Davis
-### PhD in Public Health Sciences (On-Going)
+### PhD in Public Health Sciences, Expected 2027
 ### MPH, Epidemiology Track, 2020
 Thesis: Piloting an Emergency Preparedness Gap Analysis for Long-Term Care Facilities in Yolo County <br>
 Advisor: Jeffrey Hoch, PhD
@@ -28,8 +28,10 @@ Advisor: Karen Shapiro, DVM, MPVM, Site Advisor: Haydee Dabritz, PhD
 # Experience
 ## California Department of Public Health
 ### Research Scientist I
+Office of Health Equity's Research and Evaluation Branch with the Health Equity Research and Statistics Section. Charged with OHE's Legislative Mandate to track and document the social determinants of health and their impacts in California. Projects include Justice Involvment, Workforce Equity and Diversity, Legislative Bill Analyses, and Topical Literature Reviews.
 
 ### CSTE Applied Epidemiology Fellow
+Assigned with the Division of Communicable Disease Control (DCDC). Rotations with the COVID-19 Clinical Team, San Bernardino Outbreak, non-field Deployment Team, Infectious Disease Branch, and Mpox Epidemiology Team.
 
 ## County of Yolo
 ### Emergency Preparedness Intern
@@ -46,7 +48,7 @@ Central Valley AIDS Eductation and Training Center
 ### Kapwa Health Collective
 ### Council of State and Territorial Epidemiologists
 ### California Track Starters Assocation / USATF Certified Official
-Apprentice Level Starter, Track Official and Field Official
+Apprentice Level Starter, Track Official and Field Official, Long Distance Racing Official
 
 ### Also, check out:
 
