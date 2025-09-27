@@ -19,6 +19,7 @@ Madewell ZJ, Charniga K, Masters N.B… **2022 Monkeypox Outbreak Response Team.
 Miller, A. D., Zambrano, L. D., Yousaf, A. R., Abrams, J. Y., Meng, L., Wu, M. J., ... & **MIS-C Authorship Group.** (2022). Multisystem Inflammatory Syndrome in Children—United States, February 2020–July 2021. Clinical Infectious Diseases, 75(1), e1165-e1175.
 
 ## Government Publications
+**Singson JR** and Popp K. Justice Involvement, Part 2: Poverty and Public Assistance. Health Equity Research and Statistics Section, Office of Health Equity, California Department of Public Health; June 2025. Health Equity: Beyond the Numbers. Issue 1. 
 **Singson JR** and Popp K. Justice Involvement, Part 1: Adults who were ever Arrested or Booked. Health Equity Research and Statistics Section, Office of Health Equity, California Department of Public Health; May 2024. Health Equity: Beyond the Numbers. Issue 1. 
 # In the News
 
