@@ -10,4 +10,4 @@ Worker Profile
 
 Developing a worker profile to help community organizations understand the social determinants of health within their community. 
 
-[California Worker Profile (in development)] (https://multimodal-epi.github.io/assets/dashboards/Worker-Profile.html)
+[California Worker Profile](https://multimodal-epi.github.io/assets/dashboards/Worker-Profile.html), currently in development
