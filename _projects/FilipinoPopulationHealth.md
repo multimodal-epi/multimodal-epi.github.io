@@ -4,28 +4,13 @@ title: Health of Filipino/Filipino Americans
 description: Population Health of My Kababayan
 ---
 
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
-H1 Header
+Worker Profile
 ============
 
-Paragraphs are separated by a blank line.
+Developing a worker profile to help community organizations understand the social determinants of health within their community. 
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
-
-  * this one
-  * that one
-  * the other one
-
-Note that the actual text
-content starts at 4-columns in.
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+California Worker Profile(https://multimodal-epi.github.io/assets/dashboards/Worker-Profile.html)
 
 
 H2 Header
